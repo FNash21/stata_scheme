@@ -1,4 +1,4 @@
-// lpem_main graphing scheme //
+// lpem_v2 graphing scheme //
 
 // the scheme builds on the excellent Trenton D. Mize's cleanplots graphing scheme. 
 // the scheme will only change the main color references used in cleanplots by adjusting it to
